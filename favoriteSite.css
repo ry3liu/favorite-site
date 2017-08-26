@@ -1,0 +1,20 @@
+body{
+	background:url("navyBlue.jpg");
+	background-attachment:fixed;
+	
+	
+	
+}
+.jumbotron{
+	background-color:lightGrey;
+}
+
+#webLis{
+	width:370px;
+	font-family: serif;
+	
+}
+
+body h2{
+	color:white;
+}
